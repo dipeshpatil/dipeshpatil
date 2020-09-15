@@ -21,11 +21,15 @@ export default () => ({
       js: ["node", "express"],
       python: ["flask"],
     },
-    languages: ["java", "javascript", "go", "python"],
+    languages: ["c++", "java", "javascript", "python"],
     databases: ["mongo", "firebase-database", "MySQL"]
   },
 });
 ```
+
+| Projects              | Tech Stack | Stars | Visitors |
+|-----------------------|------|-------|----------|
+| algorithms-visualiser |  ![](https://img.shields.io/badge/React%20JS-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/algorithms-visualiser?style=social)](https://github.com/dipeshpatil/algorithms-visualiser/stargazers)    |    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dipeshpatil.algorithms-visualiser)      |
 
 ---
 
