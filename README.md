@@ -4,6 +4,11 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://dipeshpatil.github.io/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dipeshpatil.visitor-badge)
 
+| Projects              | Tech Stack | Stars | Visitors |
+|-----------------------|------|-------|----------|
+| [![algorithms-visualiser](https://img.shields.io/badge/%20-algorithms--visualiser-red)](https://github.com/dipeshpatil/algorithms-visualiser) |  ![](https://img.shields.io/badge/React%20JS-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/algorithms-visualiser?style=social)](https://github.com/dipeshpatil/algorithms-visualiser/stargazers)    |    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dipeshpatil.algorithms-visualiser)|
+
+# About Me
 👨‍🎓 Computer Engineer from University of Mumbai 
 
 ```js
@@ -26,11 +31,6 @@ export default () => ({
   },
 });
 ```
-
-| Projects              | Tech Stack | Stars | Visitors |
-|-----------------------|------|-------|----------|
-| algorithms-visualiser |  ![](https://img.shields.io/badge/React%20JS-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/algorithms-visualiser?style=social)](https://github.com/dipeshpatil/algorithms-visualiser/stargazers)    |    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dipeshpatil.algorithms-visualiser)      |
-
 ---
 
 ⭐️ From [sudiptog81](https://github.com/sudiptog81)
