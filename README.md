@@ -8,7 +8,7 @@
 |-----------------------|------|-------|
 | [![algorithms-visualiser](https://img.shields.io/badge/%20-algorithms--visualiser-red)](https://github.com/dipeshpatil/algorithms-visualiser) |  ![](https://img.shields.io/badge/React%20JS-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/algorithms-visualiser?style=social)](https://github.com/dipeshpatil/algorithms-visualiser/stargazers)  |
 
-# About Me
+## About Me
 👨‍🎓 Computer Engineer from University of Mumbai 
 
 ```js
