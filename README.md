@@ -7,30 +7,9 @@
 | Projects              | Tech Stack | Stars |
 |-----------------------|------|-------|
 | [![algorithms-visualiser](https://img.shields.io/badge/%20-algorithms--visualiser-blueviolet)](https://github.com/dipeshpatil/algorithms-visualiser) |  ![](https://img.shields.io/badge/React%20JS-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/algorithms-visualiser?style=social)](https://github.com/dipeshpatil/algorithms-visualiser/stargazers)  |
+| [![simple-interpreter](https://img.shields.io/badge/%20-simple--interpreter-blue)](https://github.com/dipeshpatil/SimpleInterpreter) |  ![](https://img.shields.io/badge/Python-%20-blue)    |   [![GitHub Stars](https://img.shields.io/github/stars/dipeshpatil/SimpleInterpreter?style=social)](https://github.com/dipeshpatil/SimpleInterpreter/stargazers)  |
 
 ## About Me
 🎓 Computer Engineer from University of Mumbai 
 
-```js
-export default () => ({
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react"],
-      css: ["materialize", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["flask"],
-    },
-    languages: ["c++", "java", "javascript", "python"],
-    databases: ["mongo", "firebase-database", "MySQL"]
-  },
-});
-```
 ---
-
-⭐️ From [sudiptog81](https://github.com/sudiptog81)
