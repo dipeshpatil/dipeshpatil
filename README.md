@@ -12,25 +12,3 @@
 
 ## About Me
 🎓 Computer Engineer from University of Mumbai 
-
-```js
-export default () => ({
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react"],
-      css: ["materialize", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["flask"],
-    },
-    languages: ["c++", "java", "javascript", "python"],
-    databases: ["mongo", "firebase-database", "MySQL"]
-  },
-});
-```
----
