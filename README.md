@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/Vv8cDDV/68747470733a2f2f692e6962622e636f2f427a726770584e2f4769746875622d4865616465722e706e67.png" />
+<!-- <img width="100%" src="https://i.ibb.co/Vv8cDDV/68747470733a2f2f692e6962622e636f2f427a726770584e2f4769746875622d4865616465722e706e67.png" /> -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/dipesh-patil/)
 [![Resume](https://img.shields.io/badge/-Resume-orange)](https://dipeshpatil.github.io/resume/)
