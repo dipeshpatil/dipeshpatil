@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 - **API Development**: Expertise in building RESTful APIs and integrating third-party services.
 
 ### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/dipeshpatil](https://www.linkedin.com/in/dipeshpatil)
-- Email: dipeshpatil@example.com
+- LinkedIn: [linkedin.com/in/dipeshpatil](https://www.linkedin.com/in/dipesh-patil)
+- Email: dipeshpatil.contact@gmail.com
 
 ### 🚀 Skills:
 - **Frontend**: React.js, Vue.js, HTML5, CSS3, JavaScript (ES6+)
@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshpatil&layout=compact&theme=radical)
 
 ### 🏆 Recent Projects:
-- **[Project Name](https://github.com/dipeshpatil/project-name)**: A brief description of your latest project.
-- **[Project Name](https://github.com/dipeshpatil/project-name)**: A brief description of another cool project.
+- **[algorithms-visualiser](https://github.com/dipeshpatil/algorithms-visualiser)**: A tool made using ReactJS to visualise algorithms!.
+- **[simple-js-interpreter](https://github.com/dipeshpatil/simple-js-interpreter)**: A Simple Interpreter written in NodeJS.
 
 ### 🌟 Fun Fact:
 - I'm always on the lookout for new challenges, and when I'm not coding, you'll find me exploring new places and learning about different cultures! 🌍✈️
