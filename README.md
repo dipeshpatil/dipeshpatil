@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 - **API Development**: Expertise in building RESTful APIs and integrating third-party services.
 
 ### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/dipeshpatil](https://www.linkedin.com/in/dipesh-patil)
+- LinkedIn: [linkedin.com/in/dipesh-patil](https://www.linkedin.com/in/dipesh-patil)
 - Email: dipeshpatil.contact@gmail.com
 
 ### 🚀 Skills:
@@ -39,6 +39,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ### 🏆 Recent Projects:
 - **[algorithms-visualiser](https://github.com/dipeshpatil/algorithms-visualiser)**: A tool made using ReactJS to visualise algorithms!.
 - **[simple-js-interpreter](https://github.com/dipeshpatil/simple-js-interpreter)**: A Simple Interpreter written in NodeJS.
+- **[videomania-client](https://github.com/dipeshpatil/videomania-client)**: Frontend Application to consume Videomania Backend APIs.
+- **[videomania-backend](https://github.com/dipeshpatil/videomania-backend)**: Backend Server Application to Manage Videomania
 
 ### 🌟 Fun Fact:
 - I'm always on the lookout for new challenges, and when I'm not coding, you'll find me exploring new places and learning about different cultures! 🌍✈️
